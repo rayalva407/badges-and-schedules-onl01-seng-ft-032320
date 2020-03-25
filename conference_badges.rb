@@ -12,6 +12,7 @@ end
 
 def assign_rooms(speakers)
   new_speakers = []
+  counter = 1
   speakers.each do |name|
     new_array << "Hello, #{name}! You'll be assigned"
 end
